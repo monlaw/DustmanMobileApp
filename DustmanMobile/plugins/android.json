@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.dustman"
+        },
+        "cordova.plugins.diagnostic": {
+            "PACKAGE_NAME": "io.dustman"
+        },
+        "cl.rmd.cordova.dialoggps": {
+            "PACKAGE_NAME": "io.dustman"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "io.dustman"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "io.dustman"
+        }
+    }
+}
